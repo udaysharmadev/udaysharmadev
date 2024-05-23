@@ -9,13 +9,11 @@
 
 - 👯 I’m looking to collaborate on [Agri Connect](https://github.com/udaysharmadev/Agri-Connect)
 
-- 👨‍💻 All of my projects are available at [www.udaysharmaweb.xyz](www.udaysharmaweb.xyz)
+- 👨‍💻 All of my projects are available at [Portfolio](www.udaysharmaweb.xyz)
 
 - 💬 Ask me about **MERN, Web Development And Web Designing(UI/UX)**
 
 - 📫 How to reach me **udaysharmaaaaa@gmail.com**
-
-- 📄 Know about my experiences [https://export-download.canva.com/p5Bo0/DAF_sVp5Bo0/23/0-1405545766442850769.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20240324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240324T044112Z&X-Amz-Expires=38850&X-Amz-Signature=99384c086bd9731e1dd30e172e96da9e7617a45cc99831cad9dba20dd099e4e6&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Gray%2520Clean%2520Professional%2520Resume.pdf&response-expires=Sun%2C%2024%20Mar%202024%2015%3A28%3A42%20GMT](https://export-download.canva.com/p5Bo0/DAF_sVp5Bo0/23/0-1405545766442850769.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20240324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240324T044112Z&X-Amz-Expires=38850&X-Amz-Signature=99384c086bd9731e1dd30e172e96da9e7617a45cc99831cad9dba20dd099e4e6&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Gray%2520Clean%2520Professional%2520Resume.pdf&response-expires=Sun%2C%2024%20Mar%202024%2015%3A28%3A42%20GMT)
 
 - ⚡ Fun fact **I'm a vlogger with 63k subscribers on YouTube!**
 
