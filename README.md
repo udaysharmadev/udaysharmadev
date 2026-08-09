@@ -16,14 +16,6 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
       alt="Uday's GitHub Stats"
-      height="180"
-    />
-  </a>
-  <a href="https://github.com/udaysharmadev">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-      height="180"
     />
   </a>
 </p>
