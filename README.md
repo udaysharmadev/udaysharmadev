@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Uday Sharma</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> • <b>Full Stack Developer</b> • <b>Content Creator</b>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat" alt="Followers" />
 </p>
