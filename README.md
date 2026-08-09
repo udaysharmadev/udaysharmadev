@@ -70,7 +70,10 @@ I'm a developer and content creator from India who enjoys building products, exp
 
 <p align="center">
   <a href="https://github.com/udaysharmadev">
-    <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
