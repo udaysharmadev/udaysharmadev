@@ -76,18 +76,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://linkedin.com/in/udaydotai">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/udaysharmaaaaa">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/udaydotai">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/Qc6HTjeS5y">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord" />
-  </a>
-</p>
