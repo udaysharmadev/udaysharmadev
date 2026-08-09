@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/udaysharmadev">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+      src="https://github-stats-extended.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
       alt="Uday's GitHub Stats"
     />
   </a>
