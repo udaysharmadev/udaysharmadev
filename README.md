@@ -32,7 +32,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,tailwind,redux,mongodb,mysql,postgres,redis,firebase,docker,git,github,figma,vercel,aws,gcp&perline=18&size=10"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,mongodb,mysql,postgres,redis,firebase,docker,git,github,figma,vercel,aws,gcp&perline=18&size=10"
     alt="Tech Stack"
   />
 </p>
@@ -42,7 +42,7 @@
     <td width="66%" align="center">
       <h3>📈 Contribution Activity</h3>
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true&height=180"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true&height=220"
         alt="Contribution Activity"
         width="100%"
       />
