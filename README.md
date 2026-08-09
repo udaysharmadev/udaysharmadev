@@ -9,9 +9,21 @@
 
 <td width="50%" valign="top">
 
-### 📊 GitHub Activity
+### 📊 Commit Activity
 
-<img src="https://ghchart.rshah.org/udaysharmadev" width="100%" alt="GitHub contribution graph">
+<p align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/udaysharmadev?style=for-the-badge&label=COMMITS%20THIS%20YEAR&logo=github&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/github/commit-activity/m/udaysharmadev?style=for-the-badge&label=COMMITS%20THIS%20MONTH&logo=github&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/github/commit-activity/w/udaysharmadev?style=for-the-badge&label=COMMITS%20THIS%20WEEK&logo=github&logoColor=white">
+
+</p>
 
 </td>
 
@@ -29,13 +41,30 @@
 
 ### 🎯 Focus
 
-`Full Stack` · `AI` · `Web`  
+<p align="center">
+
+`Full Stack` · `AI` · `Web`
+
 `Developer Tools` · `Open Source`
+
+</p>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://ghchart.rshah.org/udaysharmadev" width="95%" alt="Uday Sharma GitHub contribution graph">
+
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -44,11 +73,19 @@
 
 ### 🚀 Featured Projects
 
-**[PRASANG](https://github.com/udaysharmadev/prasang-file)**  
+**[PRASANG](https://github.com/udaysharmadev/prasang-file)**
+
 Repository intelligence engine for generating structured `PRASANG.md` files.
 
-**[The Hackathon Simulator](https://github.com/udaysharmadev/The-Hackathon-Simulator)**  
-Interactive hackathon experience built around collaboration and competition.
+`TypeScript` · `Developer Tools`
+
+<br>
+
+**[The Hackathon Simulator](https://github.com/udaysharmadev/The-Hackathon-Simulator)**
+
+Interactive hackathon experience focused on collaboration and competition.
+
+`Next.js` · `React` · `Real-time`
 
 <br>
 
@@ -60,11 +97,21 @@ Interactive hackathon experience built around collaboration and competition.
 
 ### 💻 What I Build
 
-🧩 Developer Tools  
-🤖 AI Experiments  
-🌐 Web Applications  
-⚡ Developer Productivity  
+🧩 Developer Tools
+
+🤖 AI Experiments
+
+🌐 Web Applications
+
+⚡ Developer Productivity
+
 🚀 Product Ideas
+
+<br>
+
+### 🔗 Quick Access
+
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaysharmadev?tab=repositories)
 
 </td>
 
@@ -73,13 +120,11 @@ Interactive hackathon experience built around collaboration and competition.
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 🧰 Core Stack
 
-<img src="https://ghchart.rshah.org/udaysharmadev" width="95%" alt="Uday Sharma GitHub contribution graph">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,git,github,docker,vercel&perline=10">
 
-</div>
-
-<div align="center">
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaysharmadev)
 
